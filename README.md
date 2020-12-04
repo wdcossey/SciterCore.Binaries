@@ -1,8 +1,7 @@
 #### SciterCore.Binaries
+Package containing Sciter binaries for Windows, MacOS and Linux.
 
 ![Nuget](https://img.shields.io/nuget/v/SciterCore.Binaries)
-
-Package containing Sciter binaries for Windows, MacOS and Linux.
 
 Binaries are automatically resolved for the target configuration (i.e `x86`, `x64` and `AnyCPU`)
 
