@@ -1,4 +1,4 @@
-#### SciterCore.Binaries
+## SciterCore.Binaries
 Package containing Sciter binaries for Windows, MacOS and Linux.
 
 [![Build Status](https://dev.azure.com/wdcossey/SciterCore/_apis/build/status/SciterCore.Binaries?branchName=main)](https://dev.azure.com/wdcossey/SciterCore/_build/latest?definitionId=11&branchName=main)
