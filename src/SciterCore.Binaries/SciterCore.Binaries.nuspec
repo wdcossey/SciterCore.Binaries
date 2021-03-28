@@ -35,7 +35,7 @@
     <file src="build\**\*.targets" target="buildMultiTargeting\netcoreapp2.0" />-->
     <file src="build\**\*.targets" target="buildMultiTargeting\xamarinmac20" />
     <file src="..\..\sciter-sdk\bin.lnx\x64\libsciter-gtk.so" target="runtimes\linux-x64\native\libsciter-gtk.so" />
-    <file src="..\..\sciter-sdk\bin.osx\sciter-osx-64.dylib" target="runtimes\osx\native\sciter-osx-64.dylib" />
+    <file src="..\..\sciter-sdk\bin.osx\libsciter.dylib" target="runtimes\osx\native\sciter-osx-64.dylib" />
     <file src="..\..\sciter-sdk\bin.win\x32\sciter.dll" target="runtimes\win-x86\native\sciter.dll" />
     <file src="..\..\sciter-sdk\bin.win\x64\sciter.dll" target="runtimes\win-x64\native\sciter.dll" />
   </files>
